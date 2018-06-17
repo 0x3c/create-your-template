@@ -1,6 +1,6 @@
 {
-  "name": "create-you-file",
-  "version": "0.0.1",
+  "name": "create-your-template",
+  "version": "0.0.2",
   "description": "create your template file",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/funwithes/create-you-file.git"
+    "url": "git+https://github.com/funwithes/create-your-template.git"
   },
   "keywords": [
     "template",
@@ -17,10 +17,10 @@
   "bin": {
     "create": "src/app.js"
   },
-  "author": "SamuelChia",
+  "author": "Samuel Chia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/funwithes/create-you-file/issues"
+    "url": "https://github.com/funwithes/create-your-template/issues"
   },
-  "homepage": "https://github.com/funwithes/create-you-file#readme"
+  "homepage": "https://github.com/funwithes/create-your-template#readme"
 }
