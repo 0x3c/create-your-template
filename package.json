@@ -1,0 +1,26 @@
+{
+  "name": "create-you-file",
+  "version": "0.0.1",
+  "description": "create your template file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funwithes/create-you-file.git"
+  },
+  "keywords": [
+    "template",
+    "node"
+  ],
+  "bin": {
+    "create": "src/app.js"
+  },
+  "author": "SamuelChia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funwithes/create-you-file/issues"
+  },
+  "homepage": "https://github.com/funwithes/create-you-file#readme"
+}
